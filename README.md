@@ -220,11 +220,11 @@ This project helped me practice:
 
 **Agraj Ekawade**
 
-First-Year B.Sc. Data Science Student
+Second-Year B.Sc. Data Science Student
 
-GitHub: *(Add your GitHub profile link here)*
+GitHub: https://github.com/optimistic-programmer07
 
-LinkedIn: *(Add your LinkedIn profile link here)*
+LinkedIn: https://www.linkedin.com/in/agraj-ekawade-27a45b394/
 
 ---
 
